@@ -9,6 +9,5 @@ const panals=document.querySelectorAll('.panel');
   })
 function removeActiveClasses() {
 	 panels.forEach(panel=>{
-		  panel.classList.remove('active');
-}
+	 }
 					
